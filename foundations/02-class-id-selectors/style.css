@@ -1,0 +1,19 @@
+.odd-1, .odd-2 {
+   background-color:  rgb(255, 157, 157);
+   font-family: verdana, Dejavus sans, sans-serif; 
+
+}
+.odd-2 {
+font-size: 36px;
+}
+
+#play-1 {
+ color: rgb(0, 0, 255);
+ font-size: 38px;
+
+}
+#play-2 {
+    background-color: rgb(114, 248, 114);
+    font-weight: bold;
+    font-size: 24px;
+}
